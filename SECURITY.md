@@ -1,0 +1,19 @@
+# Security
+
+## Reporting Potential Security Issues
+
+If you have encountered a potential security vulnerability in this project,
+please report it to me at <Stephanos-Doran@proton.me>. I will work with you to
+verify the vulnerability and patch it.
+
+When reporting issues, please provide the following information:
+
+- Component(s) affected
+- A description indicating how to reproduce the issue
+- A summary of the security vulnerability and impact
+
+## Policy
+
+If I verify a reported security vulnerability, our policy is:
+
+- I will patch the current release branch, as well as the immediate prior minor branch

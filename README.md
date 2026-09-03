@@ -1,14 +1,15 @@
 ### Welcome to Steve's (BitWarrior) GitHub Profile
 
 ✨ Welcome to my GitHub Profile ✨
-- 👨🏻‍💻 I’m currently working on an open source HAL/S compiler (reference Personal Projects) 
+- 👨🏻‍💻 I’m currently working on an open source HAL/S compiler (see Personal Projects) 
+- 🛰️ Cybersecurity lead for [NASA’s F´ flight software framework](https://github.com/nasa/fprime)
 - 🌱 I am currently experimenting with TensorFlow on NVIDIA Jetson
 - 📫 Feel free to contact me: contact.bitWarrior@proton.me
 
 ### Skill Highlights
 * Operating Systems (Development): VxWorks, Linux
-* Operating Systems (User): MS Windows, Linux, MacOS
-* Programming Languages: C/C++, Python, Ada, Assembly (x86, PowerPC)
+* Operating Systems (User): MS Windows, Linux, macOS
+* Programming Languages: C/C++, Python, Ada, x86/PowerPC Assembly
 * Development Toolsets: Confluence, Eclipse, Git, Jira, Visual Studio Code
 * Methodologies: Agile, Model Driven Engineering (MDE), Object Oriented Design (OOD), SysML
   
@@ -16,7 +17,7 @@
 * [codesnake](https://github.com/bitWarrior/codesnake) – Dependency-free semantic code checker for Python 3 — security, bug, complexity, and unused-name analysis via AST, with SARIF/GitHub/JSON output and baselines
 
 ### Personal Projects
-* Resnik - An open source compiler for NASA's HAL/S high-level language. The Space Shuttle Flight Software (FSW) was written in the HAL/S Language (repo will be released as a Public Repo as when its more mature)
+* Resnik - An open source compiler for NASA's HAL/S high-level language. The Space Shuttle Flight Software (FSW) was written in the HAL/S Language (the repo will be released publicly when it’s more mature)
 * Homebrew 3D Printer – In collaboration with several friends, we designed and built our own 3D printer with improved motor drive precision than comparable commercial printers within the same price bracket
 
 ### Published Works and Presentations
